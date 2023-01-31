@@ -26,8 +26,8 @@ jobs:
                 "labels": ["feature"]
               },
               {
-                "title": "## 🐛 Fixes",
-                "labels": ["fix"]
+                "title": "## 🐛 Bugs",
+                "labels": ["bug"]
               },
               {
                 "title": "## 📈 Performance",
