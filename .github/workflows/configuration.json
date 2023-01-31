@@ -21,13 +21,13 @@
         "labels": ["test"]
       },
       {
-        "title": "## 💬 Other Updates",
-        "labels": []
-      },
-      {
         "title": "## 📦 Dependencies",
         "labels": ["dependencies"]
+      },
+      {
+        "title": "## 💬 Other Updates",
+        "labels": []
       }
     ],
-    "template": "#{{CHANGELOG}}\n\n<details>\n<summary>Uncategorized</summary>\n\n#{{UNCATEGORIZED}}\n</details>"
+    "template": "#{{CHANGELOG}}\n\n<details>\n</details>"
   }
