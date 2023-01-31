@@ -28,6 +28,5 @@
         "title": "## 💬 Other Updates",
         "labels": []
       }
-    ],
-    "template": "#{{CHANGELOG}}\n\n<details>\n</details>"
+    ]
   }
